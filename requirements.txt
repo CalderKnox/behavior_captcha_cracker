@@ -150,7 +150,7 @@ torchvision == 0.6.0
 # click_captcha/yidun/generate_anchorsv3.py: 12
 # slider_captcha/test.py: 13
 # slider_captcha/utils/utils.py: 4
-tqdm == 4.32.1
+tqdm == 4.66.3
 
 # slider_captcha/detect.py: 3
 # slider_captcha/slider_detect.py: 2
